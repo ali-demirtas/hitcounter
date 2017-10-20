@@ -62,7 +62,7 @@ class pluginHitcounter extends Plugin {
 
 	
 
-	public function siteSidebar() {	
+	public function siteBodyEnd() {	
 		$html  = '<div class="plugin plugin-hitcounter">';
 
 		// Print the label if not empty.
