@@ -2,7 +2,7 @@
 	"plugin-data":
 	{
 		"name": "Hitcounter",
-		"description": "Displays a hitcounter"
+		"description": "Displays a hitcounter."
 	},
 
     "text": "Text above counter",
