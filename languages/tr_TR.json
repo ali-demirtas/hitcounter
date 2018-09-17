@@ -1,0 +1,13 @@
+{
+	"plugin-data":
+	{
+		"name": "İsabet sayacı",
+		"description": "Bir isabet sayacı görüntüler."
+	},
+
+    "text": "Sayacın üzerindeki metin",
+    "positions": "Basamak sayısı",
+    "current-value": "Mevcut değer:",
+    "display-counter-as-chars": "0123456789 - Geçerli değeri karakter olarak göster",
+    "display-counter-as-images": "Geçerli değeri görüntü numaraları olarak görüntüle"
+}
